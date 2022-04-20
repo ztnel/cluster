@@ -2,23 +2,23 @@
 turingpi:
   hosts:
     master:
-      ansible_user: pi
+      ansible_user: node
       ansible_host: 192.168.2.93
     node1:
-      ansible_user: pi
+      ansible_user: node
       ansible_host: 192.168.2.94
     node2:
-      ansible_user: pi
+      ansible_user: node
       ansible_host: 192.168.2.95
     node3:
-      ansible_user: pi
+      ansible_user: node
       ansible_host: 192.168.2.96
     node4:
-      ansible_user: pi
+      ansible_user: node
       ansible_host: 192.168.2.97
     node5:
-      ansible_user: pi
+      ansible_user: node
       ansible_host: 192.168.2.98
     node6:
-      ansible_user: pi
+      ansible_user: node
       ansible_host: 192.168.2.99
